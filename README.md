@@ -1,4 +1,3 @@
-![BTTFLogo](doc/img/IMG_3066.PNG =100x)
+# <img src="doc/img/IMG_3066.PNG" width="100"> BoTTleFish
 
-# BoTTleFish
 A graph-based multitemporal multiversal database
